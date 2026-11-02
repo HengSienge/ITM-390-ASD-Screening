@@ -1,0 +1,2 @@
+A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,ethnicity,jaundice,family_asd,country_of_res,used_app_before,relation,asd_target,pred_Logistic Regression,proba_Logistic Regression,pred_K-Nearest Neighbors,proba_K-Nearest Neighbors,pred_Random Forest,proba_Random Forest,pred_Voting Ensemble,proba_Voting Ensemble
+1,0,1,0,1,1,1,1,0,1,7.0,m,Middle Eastern,yes,no,Jordan,no,Parent,1,1,0.527,0,0.478,0,0.498,1,0.501

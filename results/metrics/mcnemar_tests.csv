@@ -1,0 +1,7 @@
+Model A,Model B,"Discordant (A right, B wrong)","Discordant (B right, A wrong)",Chi-Square Stat,p-value,Significant (p < 0.05)
+Logistic Regression,K-Nearest Neighbors,1,3,0.25,0.6170750774519739,False
+Logistic Regression,Random Forest,1,10,5.818181818181818,0.01586133273977297,True
+Logistic Regression,Voting Ensemble,0,4,2.25,0.13361440253771584,False
+K-Nearest Neighbors,Random Forest,0,7,5.142857142857143,0.023342202012890834,True
+K-Nearest Neighbors,Voting Ensemble,0,2,0.5,0.47950012218695337,False
+Random Forest,Voting Ensemble,6,1,2.2857142857142856,0.13057001811573687,False
