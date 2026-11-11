@@ -11,5 +11,6 @@
         "**/__pycache__": true,
         "**/.pytest_cache": true,
         "**/.ipynb_checkpoints": true
-    }
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }
